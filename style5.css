@@ -1,0 +1,64 @@
+body{
+    width: 900px;
+    height: 200px;
+    
+    }
+
+    h1{
+        
+        color: rgb(0, 0, 0);
+        font-style: bold;
+        font-size:30px;
+        margin-top: 0.5em;
+        padding-left: 20em;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    h2{
+
+        color: rgb(0, 0, 0);
+        font-style:italic;
+        font-size:20px;
+        padding-left: 30em;
+    
+    
+    }
+    
+    /*
+    #line1{
+    margin-top: 10px;
+    position: center;
+    height:400px;
+    width: 600px;
+    top:20%;
+
+       
+    #line2{
+    margin-top: 10px;
+    position: center;
+    height:400px;
+    width: 600px;
+    top:20%;
+
+ #line3{
+    margin-top: 10px;
+    position: center;
+    height:400px;
+    width: 600px;
+    top:20%;
+
+     #line4{
+    margin-top: 10px;
+    position: center;
+    height:400px;
+    width: 600px;
+    top:20%;
+
+     #line5{
+    margin-top: 10px;
+    position: center;
+    height:400px;
+    width: 600px;
+    top:20%;
+
+

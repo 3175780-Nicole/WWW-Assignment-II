@@ -1,0 +1,57 @@
+
+h1{
+    position: center;
+    color: rgb(0, 0, 0) ;
+    font-style:normal;
+    font-size:45px;
+    margin-top: 1em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding-left: 5em;
+   
+   
+}
+
+body{
+  
+   
+    height: 100px;
+    width: 300px;
+    } 
+
+
+#candycotton{
+    height: 700px;
+    width: 900px;
+    padding: 250px;
+}
+
+#sun2{
+    height: 700px;
+    width: 900px;
+    padding: 250px;
+}
+
+#sun3{
+    height: 700px;
+    width: 900px;
+    padding: 250px;
+}
+
+#sun4{
+    height: 700px;
+    width: 900px;
+    padding: 250px;
+}
+
+#sun5{
+    height: 700px;
+    width: 900px;
+    padding: 250px;
+}
+#sun6{
+    height: 700px;
+    width: 900px;
+    padding: 250px;
+}
+
+
